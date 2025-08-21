@@ -1,6 +1,6 @@
 **TASK 3- GEOSPATIAL ANALYSIS**
 
-**Project Overview**
+**Task Overview**
 
 The objective of this task is to visualize the locations of restaurants on a map using latitude and longitude,to analyze the distribution of restaurants across different cities or countries and determine if there is any correlationbetween the restaurant's location and its rating.
 
