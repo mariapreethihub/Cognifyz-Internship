@@ -1,8 +1,8 @@
 **TASK 1- DATA EXPLORATION AND PREPROCESSING**
 
-**Project Overview**
+**Task Overview**
 
-This project aims to explore the dataset for identifying missing values,analyzing the distribution of the target variable("Aggregate rating") and identify any class imbalances.
+This task aims to explore the dataset for identifying missing values,analyzing the distribution of the target variable("Aggregate rating") and identify any class imbalances.
 
 **Dataset Overview**
 
