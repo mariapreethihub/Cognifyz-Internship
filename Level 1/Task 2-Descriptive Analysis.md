@@ -1,6 +1,6 @@
 **TASK 2- DESCRIPTIVE ANALYSIS**
 
-**Project Overview**
+**Task Overview**
 
 The objective of this task is to perform descriptive analysis on the dataset to understand the distribution of restaurants across countries, cities, and cuisines.Basic statistical measures (mean,median, standard deviation, etc.) for numerical columns is found and explored the distribution of categorical variables like "Country Code," "City," and"Cuisines." Additionally,top cuisines and cities with the highest number of restaurants is identified.
 
