@@ -54,4 +54,4 @@ c. Finding and removing duplicate value
 - Majority of the customers have not rated the restaurants or missing.
 - Most of the customers have given rating between 3-3.5.
 - Restaurants with very less and very high rating is fewer.
-- Given dataset is highly imbalanced which can lead the ML model to bias.Class imbalance can be handled using SMOTE Technique.
+- Given dataset is highly imbalanced which can lead the ML model to bias.
